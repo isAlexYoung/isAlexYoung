@@ -7,8 +7,3 @@
 - ⚡ 技术栈：python/AI/
 - 🌐 查看更多内容在我的个人网站：[https://你的网站.com](https://你的网站.com)
 ---
-### 📈 GitHub 活跃度
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isAlexYoung&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=isAlexYoung&show_icons=true&theme=radical)
