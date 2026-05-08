@@ -1,17 +1,12 @@
 # Hi, I'm Alex Young 👋
 
 📍 深圳 | 💻 [IT & AI Learner / 全栈开发者]
-
+- 👋 你可以叫我 **Alex**
+- 📫 如何联系我？邮箱：yyze9723@gmail.com (mailto:yyze9723@gmail.com)
+- 👀 是学生，正在应付DDL, 热衷于机器狗和机器人
+- ⚡ 技术栈：python/AI/
+- 🌐 查看更多内容在我的个人网站：[https://你的网站.com](https://你的网站.com)
 ---
-
-### 🚀 项目展示
-
-- **📊 [项目名 1]** —— 项目的一句话简介（比如：基于AI的课堂代码助手）
-- **📱 [项目名 2]** —— 项目的一句话简介（比如：协同Markdown编辑器）
-- **🔨 [项目名 3]** —— 项目的一句话简介（比如：电子书批量转换工具）
-
----
-
 ### 📈 GitHub 活跃度
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=isAlexYoung&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
